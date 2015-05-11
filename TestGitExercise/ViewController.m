@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) NSString *dob;
+
 @end
 
 @implementation ViewController

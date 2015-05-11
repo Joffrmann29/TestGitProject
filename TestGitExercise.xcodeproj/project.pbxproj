@@ -15,7 +15,6 @@
 		B4FA62391B0138DC00C9016C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4FA62381B0138DC00C9016C /* Images.xcassets */; };
 		B4FA623C1B0138DC00C9016C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4FA623A1B0138DC00C9016C /* LaunchScreen.xib */; };
 		B4FA62481B0138DC00C9016C /* TestGitExerciseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B4FA62471B0138DC00C9016C /* TestGitExerciseTests.m */; };
-		ECEF75A41B014B1600CBEDCC /* offWhiteGradientBG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECEF75A31B014B1600CBEDCC /* offWhiteGradientBG.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +43,6 @@
 		B4FA62411B0138DC00C9016C /* TestGitExerciseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitExerciseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FA62461B0138DC00C9016C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4FA62471B0138DC00C9016C /* TestGitExerciseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitExerciseTests.m; sourceTree = "<group>"; };
-		ECEF75A31B014B1600CBEDCC /* offWhiteGradientBG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = offWhiteGradientBG.jpg; path = ../../../../NutechApp/offWhiteGradientBG.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +91,6 @@
 				3E89A1551B0151D700BE5CDB /* TableViewController.h */,
 				3E89A1561B0151D700BE5CDB /* TableViewController.m */,
 				B4FA62351B0138DC00C9016C /* Main.storyboard */,
-				ECEF75A31B014B1600CBEDCC /* offWhiteGradientBG.jpg */,
 				B4FA62381B0138DC00C9016C /* Images.xcassets */,
 				B4FA623A1B0138DC00C9016C /* LaunchScreen.xib */,
 				B4FA622B1B0138DC00C9016C /* Supporting Files */,
@@ -207,7 +204,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ECEF75A41B014B1600CBEDCC /* offWhiteGradientBG.jpg in Resources */,
 				B4FA62371B0138DC00C9016C /* Main.storyboard in Resources */,
 				B4FA623C1B0138DC00C9016C /* LaunchScreen.xib in Resources */,
 				B4FA62391B0138DC00C9016C /* Images.xcassets in Resources */,
